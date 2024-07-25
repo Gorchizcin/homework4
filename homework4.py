@@ -1,4 +1,5 @@
-my_string='в каком городе вы родились'
+my_string=input('в каком году вы родились? ')
+my_string='в каком году вы родились?'
 print(my_string)
 print(my_string.upper())
 print(my_string.lower())
